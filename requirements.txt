@@ -1,0 +1,16 @@
+# Core
+python-dotenv==1.0.1
+pydantic==2.9.2
+
+# Eval
+ragas==0.2.6
+datasets==3.0.2
+
+# Eval
+ragas==0.2.6
+datasets==3.0.2
+
+# Data
+requests==2.32.3
+tqdm==4.66.5
+pandas==2.2.3
